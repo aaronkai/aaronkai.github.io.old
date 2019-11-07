@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title:  "Getting Current"
-date:   2019-11-05 16:30:00 -0500
+title:  'Getting Current'
+date:   '2019-11-05 16:30:00 -0500'
 categories: blogpost
 ---
 
