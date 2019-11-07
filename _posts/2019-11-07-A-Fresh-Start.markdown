@@ -1,7 +1,8 @@
+
 ---
 layout: post
-title:  'Dr. Jeckell and Mr. Sinatra'
-date:   '2019-11-07 16:30:00 -0500'
+title:  "Getting Current"
+date:   2019-11-07 16:30:00 -0500
 categories: blogpost
 ---
 
